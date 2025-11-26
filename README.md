@@ -93,7 +93,7 @@ A Body Mass Index calculator that helps users understand their health category b
     git clone https://github.com/Ashif2601/Java-Projects.git
 **2. Enter the project directory:**
 
-    cd your-repo
+    cd Java-Projects
 **3. Compile the Java file:**
 
     Compile the Java file:
