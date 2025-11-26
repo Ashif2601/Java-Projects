@@ -29,7 +29,7 @@ A fun interactive game:
 - Provides hints (Too high / Too low)
 - Tracks attempts
 
-### 4. ✊✋✌️ Rock Paper Scissors ✊✋✌️
+### 4. ✊✋✌️ Rock Paper Scissors ✌️✋✊
 Play the classic game against the computer:
 - Random computer choice
 - User vs AI result logic
@@ -49,7 +49,7 @@ Converts temperatures between:
 - Kelvin
 Supports accurate scientific formulas with formatted output.
 
-### 7. ⭕❌ Tic Tac Toe ⭕❌
+### 7. ⭕❌ Tic Tac Toe ❌⭕
 A console-based two-player Tic-Tac-Toe game:
 - 3×3 grid
 - Player turns
